@@ -1,0 +1,13 @@
+C:\Users\Sthefany\Documents\Atividades-Senai\Pets\bin\Release\net8.0\publish\Pets.exe
+C:\Users\Sthefany\Documents\Atividades-Senai\Pets\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Sthefany\Documents\Atividades-Senai\Pets\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Sthefany\Documents\Atividades-Senai\Pets\bin\Release\net8.0\publish\Pets.dll
+C:\Users\Sthefany\Documents\Atividades-Senai\Pets\bin\Release\net8.0\publish\Pets.deps.json
+C:\Users\Sthefany\Documents\Atividades-Senai\Pets\bin\Release\net8.0\publish\Pets.runtimeconfig.json
+C:\Users\Sthefany\Documents\Atividades-Senai\Pets\bin\Release\net8.0\publish\Pets.pdb
+C:\Users\Sthefany\Documents\Atividades-Senai\Pets\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+C:\Users\Sthefany\Documents\Atividades-Senai\Pets\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\Sthefany\Documents\Atividades-Senai\Pets\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\Sthefany\Documents\Atividades-Senai\Pets\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\Sthefany\Documents\Atividades-Senai\Pets\bin\Release\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sthefany\Documents\Atividades-Senai\Pets\bin\Release\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

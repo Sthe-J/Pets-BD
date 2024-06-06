@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "OrSB46wHBzVDheJz/WqoUetbaY+wa+MltIWLV3QvNoQ=",
+  "Source": "Pets",
+  "BasePath": "_content/Pets",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Pets\\wwwroot",
+      "Source": "Pets",
+      "ContentRoot": "C:\\Users\\Sthefany\\Documents\\Atividades-Senai\\Pets\\wwwroot\\",
+      "BasePath": "_content/Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Sthefany\\Documents\\Atividades-Senai\\Pets\\wwwroot\\index.html",
+      "SourceId": "Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sthefany\\Documents\\Atividades-Senai\\Pets\\wwwroot\\",
+      "BasePath": "_content/Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
